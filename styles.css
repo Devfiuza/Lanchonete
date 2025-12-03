@@ -307,7 +307,7 @@ header nav a:hover {
 footer{
     display: grid;
     grid-template-columns: repeat(4, 1fr); /* 4 colunas e e dividir espaço igual entre elas  */
-    gap: 40px;
+    gap: 10px;
     padding: 60px 5% 20px;
     background: var(--dark);
     color:#fff
